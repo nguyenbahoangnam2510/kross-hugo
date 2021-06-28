@@ -13,7 +13,6 @@ sections:
   match: "**/*"
   new_doc_ext: '20191203072044'
   templates:
-  - author
   - post
 - type: heading
   label: Data
