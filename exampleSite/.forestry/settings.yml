@@ -15,8 +15,6 @@ sections:
   templates:
   - post
 - type: heading
-  label: Author
-- type: heading
   label: Data
 - type: directory
   path: exampleSite/data
