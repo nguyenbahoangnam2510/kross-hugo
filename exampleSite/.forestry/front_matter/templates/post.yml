@@ -9,7 +9,7 @@ fields:
   name: date
   label: date
 - type: text
-  name: author
+  name: Author_Name
   label: author
   description: 'Ex: John Doe'
 - type: file
@@ -19,6 +19,8 @@ fields:
   name: image
   label: image
 - type: text
-  name: description
+  name: meta_description
   label: description
   description: meta description
+pages:
+- exampleSite/content/blog/chao-xin.20191203072044
