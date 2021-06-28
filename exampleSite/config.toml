@@ -19,10 +19,6 @@ weight = 3
 URL = "contact"
 name = "Contact"
 weight = 4
-[[menu.main]]
-URL = "tel:0974159889"
-name = "LH: 0974159889"
-weight = "5"
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
