@@ -11,6 +11,7 @@ sections:
   label: Post
   create: documents
   match: "**/*"
+  exclude: blog/
   new_doc_ext: '20191203072044'
   templates:
   - post
