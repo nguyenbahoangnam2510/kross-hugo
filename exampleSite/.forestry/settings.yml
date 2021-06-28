@@ -5,6 +5,16 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Portfolio
+- type: directory
+  path: exampleSite/content/portfolio
+  label: portfolio
+  create: documents
+  match: "**/*"
+  new_doc_ext: ".md"
+  templates:
+  - portfolio
+- type: heading
   label: Blog Post
 - type: directory
   path: exampleSite/content/blog
