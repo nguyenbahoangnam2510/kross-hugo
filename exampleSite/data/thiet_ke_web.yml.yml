@@ -6,10 +6,9 @@ work_process:
   - title: Nghiên cứu thị trường
     icon: images/icons/plan.png
     content: Dự án đã được nghiên cứu
-  - title: Design and Develop
+  - title: Xây dựng Timeline & kế hoạch
     icon: images/icons/design.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Xây dựng Timeline & Kế hoạch giúp dự án thực hiện đúng lộ trình
   - title: Deliver
     icon: images/icons/print.png
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
